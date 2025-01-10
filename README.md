@@ -5,7 +5,7 @@ Arduino kullanılarak yapılan bir roket ateşleme sistemi
 
 Gerekli modüller ve elektronik kartlar:
 1 adet aruino mega 2560,
-1 adet arduino nano,
+1 adet arduino uno,
 2 adet nrf24,
 1 adet 4'lü röle kartı,
 
